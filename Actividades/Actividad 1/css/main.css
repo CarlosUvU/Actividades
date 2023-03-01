@@ -1,0 +1,19 @@
+.titulo{
+    text-align: center;
+}
+
+.config{
+    color: rgb(255, 255, 255);
+    background-color: rgb(211, 150, 80);
+    padding: 4%;
+    margin: 4%;
+
+}
+
+li{
+    line-height:160%
+}
+
+*{
+    font-family: Helvetica;
+}
